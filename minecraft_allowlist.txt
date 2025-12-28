@@ -1,0 +1,3 @@
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+fp.msedge.net
