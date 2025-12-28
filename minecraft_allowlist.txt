@@ -1,3 +1,5 @@
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 fp.msedge.net
+﻿﻿c-ring.msedge.net
+t-ring-s2.msedge.net
